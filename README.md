@@ -9,8 +9,7 @@ Bu proje, 1975 ile 2017 yılları arasında ABD borsalarında halka arz (IPO) ol
 
 Aşağıdaki grafik, Python kullanılarak elde edilmiştir:
 
-![IPO Yaş Grafiği](buraya_resim_yukle.png)
-*(Not: Lütfen yukarıdaki dosya adını yüklediğiniz ekran görüntüsüyle değiştirin)*
+![IPO Yaş Grafiği](https://github.com/Quadraxx/ipo-data-analysis/blob/main/IPO/IPOgrapics.png)
 
 ### 🔍 Grafikten Çıkarılan Önemli Bulgular:
 * **Dot-com Balonu (1999-2000):** Grafikteki **çukur noktasına** dikkat edin. Bu yıllarda şirketlerin halka arz olma yaşı ortalama **10 yılın altına** düşmüştür. Bu, teknoloji çılgınlığı sırasında kurulan şirketlerin henüz "bebekken" borsaya girdiğini kanıtlar.
